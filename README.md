@@ -1,5 +1,18 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋, I am Anant Shrivastava a.k.a anantshri </h1>
+<h3 align="center">Geek, Technology Enthusiast, Researcher</h3>
+<center>
+<p align="center">
+<a href="https://twitter.com/anantshri"><img src="https://img.shields.io/twitter/follow/anantshri?style=for-the-badge" /></a>
+<a href=""><img src="https://img.shields.io/badge/anantshri-blue?style=for-the-badge&logo=Linkedin" /></a>
+</p>
+</center>
 
+
+<p align="center">
+  <a href="https://github.com/anantshri">
+    <img src="https://github-readme-stats.vercel.app/api?username=anantshri&count_private=true&show_icons=true&theme=chartreuse-dark"/>
+  </a>
+</p>
 <!--
 **anantshri/anantshri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
