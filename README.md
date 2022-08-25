@@ -3,7 +3,8 @@
 <center>
 <p align="center">
 <a href="https://twitter.com/anantshri"><img src="https://img.shields.io/twitter/follow/anantshri?style=for-the-badge" /></a>
-<a href=""><img src="https://img.shields.io/badge/anantshri-blue?style=for-the-badge&logo=Linkedin" /></a>
+<a href="https://www.linkedin.com/in/anantshri/"><img src="https://img.shields.io/badge/anantshri-blue?style=for-the-badge&logo=Linkedin" /></a>
+[![Peerlist](https://peerlist-readme-badge.herokuapp.com/api/anantshri)](https://peerlist.io/anantshri)
 </p>
 </center>
 
