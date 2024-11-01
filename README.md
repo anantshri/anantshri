@@ -2,7 +2,7 @@
 <h3 align="center">Geek, Technology Enthusiast, Researcher</h3>
 <center>
 <p align="center">
-<a href="https://twitter.com/anantshri"><img src="https://img.shields.io/twitter/follow/anantshri?style=for-the-badge" /></a>
+<a href="https://x.com/anantshri"><img src="https://img.shields.io/twitter/follow/anantshri?style=for-the-badge" /></a>
 <a href="https://www.linkedin.com/in/anantshri/"><img src="https://img.shields.io/badge/anantshri-blue?style=for-the-badge&logo=Linkedin" /></a>
 <a href="https://peerlist.io/anantshri"><img src="./peerlist.svg" /></a>
 
