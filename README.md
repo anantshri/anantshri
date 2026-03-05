@@ -8,6 +8,7 @@
   <a href="https://buymeacoffee.com/anantshri">
     <img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
   </a>
+  <br />
   <a href="https://www.linkedin.com/in/anantshri/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-anantshri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
