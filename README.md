@@ -27,29 +27,31 @@ I work on software supply chain security, cloud security, and Linux. I also buil
 - Self hosting and decentralised systems
 - Research-driven, hands-on training
 
-## Featured projects
-- **Attack Surface Reduction Manifesto**: philosophy-first approach to building resilient systems through subtraction  
-  https://anantshri.info/projects/reduce-the-attack-surface/
-- **SBOM Play**: browser-based SBOM analysis tool for GitHub repositories  
-  https://anantshri.info/projects/sbom-play/
-- **Hacking Archives of India**: digital repository documenting Indian hacking and cybersecurity history  
-  https://anantshri.info/projects/hacking-archives-of-india/
-- **AI BOM Maker**: client-side AI Bill of Materials generator for GitHub repositories  
-  https://anantshri.info/projects/aibommaker/
-- **Cloud IAM Policy Explorer**: client-side AWS IAM policy explorer with automated shadow admin detection  
-  https://anantshri.info/projects/cloud-iam-policy-explorer/
-- **3rd Party Tracer**: third-party service discovery via DNS analysis  
-  https://anantshri.info/projects/3ptracer/
-- **CodeVigilant**: security research project for open source vulnerability disclosure  
-  https://anantshri.info/projects/codevigilant/
+## Projects I work on
+- [**Attack Surface Reduction Manifesto**: philosophy-first approach to building resilient systems through subtraction](https://reducetheattacksurface.com/)
+  
+- [**Hacking Archives of India**: digital repository documenting Indian hacking and cybersecurity history](https://hackingarchivesofindia.com/)
+
+- [**SBOM Play**: browser-based SBOM analysis tool for GitHub repositories](https://cyfinoid.github.io/sbomplay/)
+
+- [**3rd Party Tracer**: third-party service discovery via DNS analysis](https://cyfinoid.github.io/3ptracer/)
+
+- [**Cloud IAM Policy Explorer**: client-side AWS IAM policy explorer with automated shadow admin detection](https://cyfinoid.github.io/cloud-iam-policy-explorer/)
+
+- [**CodeVigilant**: security research project for open source vulnerability disclosure](https://codevigilant.com/)
 
 More projects: https://anantshri.info/projects/
 
-## Writing and talks
-- Blog: https://blog.anantshri.info
-- Slides: https://slides.anantshri.info
+## Writing and public work
+- Blog: [https://blog.anantshri.info](https://blog.anantshri.info)
+  
+- Timeline: [https://anantshri.info/timeline](https://anantshri.info/timeline)
 
 ## Contact
-Website: https://anantshri.info  
-Fediverse: https://social.anantshri.info  
+Website: [https://anantshri.info](https://anantshri.info)
+
+Fediverse/Mastodon: [https://social.anantshri.info](https://social.anantshri.info/@anant)
+
+Linkedin: [/in/anantshri](https://www.linkedin.com/in/anantshri/)
+
 Email: anant [at] anantshri [dot] info
